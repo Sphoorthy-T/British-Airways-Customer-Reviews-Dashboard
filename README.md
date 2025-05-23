@@ -1,5 +1,7 @@
 # British-Airways-Customer-Reviews-Dashboard
 
+![British_Airways_Image](https://github.com/Sphoorthy-T/British-Airways-Customer-Reviews-Dashboard/blob/main/freepik__the-style-is-candid-ima-76-3.jpg)
+
 # Project Overview
 This Tableau dashboard was built to analyze and visualize customer reviews for British Airways. The aim was to uncover trends and insights across several key service metrics, helping to better understand customer satisfaction and identify areas for improvement. By breaking down review scores across different filters and dimensions, this tool serves as a powerful aid in making data-informed decisions for enhancing the passenger experience.
 
